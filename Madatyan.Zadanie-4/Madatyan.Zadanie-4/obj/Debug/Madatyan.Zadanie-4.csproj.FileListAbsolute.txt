@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\Zadanie№4\Zadanie№4\bin\Debug\Zadanie№4.exe.config
+C:\Users\student\source\repos\Zadanie№4\Zadanie№4\bin\Debug\Zadanie№4.exe
+C:\Users\student\source\repos\Zadanie№4\Zadanie№4\bin\Debug\Zadanie№4.pdb
+C:\Users\student\source\repos\Zadanie№4\Zadanie№4\obj\Debug\Zadanie№4.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Zadanie№4\Zadanie№4\obj\Debug\Zadanie_4.Form1.resources
+C:\Users\student\source\repos\Zadanie№4\Zadanie№4\obj\Debug\Zadanie_4.Properties.Resources.resources
+C:\Users\student\source\repos\Zadanie№4\Zadanie№4\obj\Debug\Zadanie№4.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Zadanie№4\Zadanie№4\obj\Debug\Zadanie№4.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Zadanie№4\Zadanie№4\obj\Debug\Zadanie№4.exe
+C:\Users\student\source\repos\Zadanie№4\Zadanie№4\obj\Debug\Zadanie№4.pdb
